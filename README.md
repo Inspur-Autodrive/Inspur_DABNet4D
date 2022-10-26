@@ -5,9 +5,7 @@ Results
 3D Object Detection (on nuScenes test)
 Model	mAP	NDS
 Inspur-DABNet4D-1600	53.21	62.37
-#3D Object Detection (on nuScenes val)
-#Model	mAP	NDS
-#Inspur-MASTER-704	35.91	49.75
+
 Get Started
 Environment
 This implementation is build upon mmdetection3d, please follow the steps in install.md to prepare the environment.
